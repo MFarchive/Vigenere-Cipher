@@ -1,5 +1,5 @@
 # Vigenere-Cipher
-Python adn R code for solving the Vigenere Cipher with the Twist Algorithm, Twist+ Algorithm and Kasiski Examination
+Python and R code for solving the Vigenere Cipher with the Twist Algorithm, Twist+ Algorithm and Kasiski Examination
 
 
 This document contains code used to implement the Twist+ and Twist Algorithms, which are used to find the key length of a Vigenere cipher.
